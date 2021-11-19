@@ -1,4 +1,4 @@
-# node-google-sheets-manager
+# Google Sheets API
 A small Node/Express server for submitting custom HTML form data to Google Sheets spreadsheets.
 
 ## USAGE
